@@ -9,7 +9,7 @@ if(!isset($_SESSION['user']))
 }
 
 $fname = $_POST["name"];
-$myfile = fopen('./pages/' . $fname, "w") or die("Unable to open file!");
+$myfile = fopen('./pages/' . $fname, "w") or die("Unable to create file!");
 $txt = $_POST["code"];
 fwrite($myfile, $txt);
 fclose($myfile);
@@ -22,7 +22,7 @@ $author = $userRow['username'];
 if(mysql_query("INSERT INTO users(Author,project) VALUES('$author','$name')"))
  {
   ?>
-        <script>alert('Successfully Submitted! ');</script>
+        <script>alert('Successfully Added to Code-Adics!');</script>
         <?php
  }
 header('Location:/pages/' . $name);
