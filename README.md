@@ -6,4 +6,4 @@ Source code for CodeAdic.ahitt-industries.com
 - [x] Save code from code editor to a file
 - [ ] Profiles, User management, and Code page
 - [ ] Index/Homepage
-- [ ] (Awesome) 404 page
+- [ ] (awesome) 404 page
