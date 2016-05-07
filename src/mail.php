@@ -15,7 +15,7 @@ if(!isset($_SESSION['user']))
 }
 
 
-$to = "myemail";
+$to = "hittmana@comcast.net";
 $subject = $_POST['sub'];
 $txt = $_POST['msg'];
 $email = $_POST['email'];
