@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c3e66718f994602a92298ce3176c34c)](https://www.codacy.com/app/hittmana/Code-Adic-source-code?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Code-Adic-Team/Code-Adic-source-code&amp;utm_campaign=Badge_Grade)
 #**Code Adic source code**
 Source code for CodeAdic.ahitt-industries.com
 #**========================================**
